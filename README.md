@@ -43,3 +43,4 @@ This is a new line
 Fixed
 
 Another line
+Another line
